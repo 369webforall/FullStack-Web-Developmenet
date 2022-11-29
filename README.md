@@ -1,15 +1,39 @@
 ![FullStack-Web-Developmenet](./assets/Velisa-Landscape-Logo.png)
 
-Course Content
+# Full-Stack Web Development Course - 9 Month (HTML,CSS,JavaScript,React,Nextjs - MERN-Stack)
 
-#NPM, G
-it, Github (Introduction class)
-#HTML
-#CSS
-#SASS
-#JavaScript
-#React/Redux
-#Nodejs
-#Express
-#MongoDB
-#NextJs
+- Course Content
+
+# NPM, Git, Github (Introduction class)
+
+# HTML
+
+# CSS
+
+# SASS/styled-component
+
+# BootStrap
+
+# JavaScript
+
+# Algoritham and DataStructure
+
+# React/Redux
+
+# Nodejs
+
+# Express
+
+# MongoDB
+
+# NextJs
+
+# Tailwind CSS
+
+# FullStack Projects using React & Nextjs
+
+# SEO
+
+# Intreview prepration
+
+# Job Search
