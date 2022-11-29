@@ -45,15 +45,45 @@
 - Responsiveness for mobile, tablet, etc. (@media)
 - Grid for layouts
 
-## SASS/styled-component
+- Advance Projects (4 projects)
+
+## SASS
+
+- Variables
+- Nesting
+- Partials
+- Modules
+- Mixins
+- Extend/Inheritance
+- Operators
 
 ## BootStrap
+
+- Installation / CDN Link for Bootstrap
+- Layout
+- Content
+- Forms
+- Components
+- Helpers
+- Utilities
+- Icons
 
 ## JavaScript
 
 ## Algoritham and DataStructure
 
 ## React/Redux
+
+## Styled-components
+
+- Installation
+- Create components
+- Adapting based on props
+- Extending Styles
+- Styling any component
+- Passed props
+- How do Styled Components work within a component?
+- Define Styled Components outside of the render method
 
 ## Nodejs
 
