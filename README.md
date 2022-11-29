@@ -1,7 +1,9 @@
-![FullStack-Web-Developmenet](./assets/Velisa-Landscape-Logo.pngf)
-Course Content -
+![FullStack-Web-Developmenet](./assets/Velisa-Landscape-Logo.png)
 
-#NPM, Git, Github (Introduction class)
+Course Content
+
+#NPM, G
+it, Github (Introduction class)
 #HTML
 #CSS
 #SASS
