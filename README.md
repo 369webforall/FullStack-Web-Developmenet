@@ -202,9 +202,49 @@ Hoisting
 Variable Scopes
 ```
 
+- ES6
+
+- JS DOM
+
+- JS projects
+
 ## Algoritham and DataStructure
 
 ## React/Redux
+
+- React JS Tutorial | Introduction
+- Installing and Creating New React Application
+- Understanding folder structure
+- React Components / What are react components ?
+- What is JSX ?
+- Props in React, Why do we need props.
+- What is React Hooks ? understanding useState hooks
+- useEffect hook in React
+- What is State in React , understaing state
+- Project - Todo App
+- Project- Tic-Tac-Toe game
+- How to get data from API
+- React Context API
+- Project - Weather forecast APP
+- React Router, React Router DOM
+- Project - Meme Generator App
+
+(Redux Tutorial)
+
+- Redux from scratch
+- How to make API call in React Redux Toolkit
+
+(FullStack React and Firebase Tutorial)
+
+- How to set up react and firebase project
+- Authentication in Firebase / React Firebase Authentication
+- Login with firebase and react
+- Correct way of using firebase in react application
+- Firebase Google Authentication React
+- Geeting Logged in user in firebase
+- Cloud firestore
+- How to setup firebase realtime Database with react
+- CRUD using Firebase , FireStore and ReactJs
 
 ## Styled-components
 
