@@ -2,7 +2,7 @@
 
 # Full-Stack Web Development Course - 9 Month (HTML, CSS, JavaScript, React, Nextjs - (MERN-Stack))
 
-- Course Content
+# Course Content
 
 ## NPM, Git, Github (Introduction class)
 
@@ -210,6 +210,15 @@ Variable Scopes
 
 ## Algoritham and DataStructure
 
+- 7 COMMON JAVASCRIPT DATA STRUCTURES
+- array
+- object
+- queue
+- stack
+- Linked Lists
+- Trees
+- Graphs
+
 ## React/Redux
 
 - React JS Tutorial | Introduction
@@ -259,18 +268,110 @@ Variable Scopes
 
 ## Nodejs
 
+- What is Nodejs ?
+- Features of Nodejs
+- Installation
+- Creating Node.js Application
+- Online REPL Terminal (nodejs command)
+- Installing Modules using NPM
+- Global vs Local Installation
+- Using package.json
+- What is Callback? / Blocking and Non-blocking
+- Event Loop
+- Module
+- File System
+- Global Object
+
 ## Express
+
+- Installing Express
+- Basic Routing
+- Serving Static Files
+- GET Method
+- POST Method
+- File Upload
+- Cookies Management
+- What is REST architecture?
+- HTTP methods
+-
 
 ## MongoDB
 
+- What is MongoDB
+- Features of MongoDB
+- How to install MongoDB on Windows
+- Data Modeling in MongoDB
+- MongoDB Operators
+- Database Commands
+- Create Database
+- Drop Database
+- Create Collection
+- Drop Collection
+- CRUD operation
+- MongoDB cloud
+
 ## NextJs
+
+- What is Nextjs
+- Setting up Nextjs project
+- Routing in Nextjs
+- Nextjs Dynamic Routing
+- Understanding Nextjs router
+- Client side data fetching
+- Server side data fetching
+- Static site generation
+- Modular CSS in Nextjs
+- Image component in NextJs
+- Authentication in Nextjs
+- Deploying Nextjs Application
+- Projects
 
 ## Tailwind CSS
 
+- Setup Tailwind css
+- Fonts and Colors
+- Margin, Padding and Borders
+- Tailwind Config
+- Custom Fonts
+- Using Flexbox
+- Grid
+- Responsive Design
+- Cards
+- Badges
+- Buttons
+- Icons
+- Hover Effects
+- Responsive Nav
+- Transitions
+
 ## FullStack Projects using React & Nextjs
+
+- 4 FullStack projects to display in portfolio
 
 ## SEO
 
+- What is SEO ?
+- How Search Engine Works?
+- What is Search Engine Rank?
+- What is On-Page and Off-page SEO?
+- Optimized Keywords
+- Optimized Metatags
+- Relevent Title
+- Link Building
+
 ## Intreview prepration
 
+- Resume
+- Portfolio site
+- Cover letter
+- Projects to display in portfolio
+- Mock Interview
+- Clean up your github profile
+- Update readme file for each project in github
+- Problem solving (Technicial Interview)
+
 ## Job Search
+
+- Apply 15 Jobs daily.
+- Keep track of applied job
+- https://huntr.co
