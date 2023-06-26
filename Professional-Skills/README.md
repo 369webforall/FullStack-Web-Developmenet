@@ -198,7 +198,7 @@ Finally, arrange your best projects first
 
 ### Interests
 
-# Activity
+### Activity
 
 # Writing an Article
 
